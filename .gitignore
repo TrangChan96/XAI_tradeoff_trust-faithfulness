@@ -1,0 +1,22 @@
+# Ignore files and folders created by the PyCharm IDE
+.idea/
+.ipynb_checkpoints
+
+# Ignore virtual environment folder
+venv/
+
+# Ignore pycache
+__pycache__/
+
+# Ignore data folder
+data/
+test/
+model/
+score/
+
+# Ignore testing files
+test.py
+test.txt
+
+# Ignore user-study (for the moment)
+user-study/

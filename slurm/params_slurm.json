@@ -1,0 +1,14 @@
+{"fooling_method": ["location", "corner", "center-mass"],
+ "lambda": [5, 10, 15],
+ "basemethod": ["gradCAM"],
+ "modifiers": ["base"],
+ "save_path_bias_model": "/home/nguyen/master-thesis/results/manipulated_model",
+ "result_path": "/home/nguyen/results_thesis/results",
+ "percentage": 1,
+ "root_dataset": "/common/share/road/dataset",
+ "path_model": "/home/nguyen/model/food101.pth",
+ "epochs": 20,
+ "batch_size": 8,
+ "bias": 1,
+ "window_size": [2,3,4,5,6,7]
+}
