@@ -13,3 +13,4 @@ __pycache__/
 # Ignore data folder
 test/
 score/
+Data/
