@@ -1,9 +1,0 @@
-StartDate,EndDate,Progress,Duration (in seconds),Finished,RecordedDate,UserLanguage,Question 1,Question 2,Question 3,Question 4,Question 5,Question 6,Question 7,Question 8,Question 9,Question 10
-2023-02-10 16:13:25,2023-02-10 16:20:57,100,452,True,2023-02-10 16:20:58,EN,greek_salad,clam_chowder,beet_salad,steak,greek_salad,lobster_roll_sandwich,ravioli,bread_pudding,takoyaki,panna_cotta
-2023-02-10 18:47:45,2023-02-10 19:01:18,100,813,True,2023-02-10 19:01:19,EN,greek_salad,clam_chowder,pork_chop,filet_mignon,greek_salad,lobster_bisque,ravioli,bread_pudding,takoyaki,eggs_benedict
-2023-02-10 18:47:58,2023-02-10 19:04:42,100,1003,True,2023-02-10 19:04:43,EN,greek_salad,clam_chowder,pork_chop,filet_mignon,greek_salad,lobster_bisque,ravioli,bread_pudding,takoyaki,panna_cotta
-2023-02-10 20:05:55,2023-02-10 20:11:28,100,332,True,2023-02-10 20:11:29,EN,greek_salad,clam_chowder,steak,prime_rib,greek_salad,lobster_roll_sandwich,ravioli,bread_pudding,takoyaki,panna_cotta
-2023-02-10 21:49:14,2023-02-10 21:51:17,100,123,True,2023-02-10 21:51:18,EN,greek_salad,clam_chowder,steak,steak,greek_salad,lobster_roll_sandwich,ravioli,apple_pie,bruschetta,panna_cotta
-2023-02-11 08:28:37,2023-02-11 08:33:59,100,321,True,2023-02-11 08:34:00,EN,greek_salad,lobster_bisque,filet_mignon,prime_rib,greek_salad,lobster_roll_sandwich,ravioli,bread_pudding,takoyaki,panna_cotta
-2023-02-12 08:09:05,2023-02-12 08:13:56,100,291,True,2023-02-12 08:13:57,EN,greek_salad,lobster_bisque,foie_gras,baby_back_ribs,greek_salad,lobster_roll_sandwich,ravioli,bread_pudding,takoyaki,ice_cream
-2023-02-15 09:46:00,2023-02-15 09:49:28,100,208,True,2023-02-15 09:49:29,EN,greek_salad,beignets,filet_mignon,prime_rib,greek_salad,ceviche,ravioli,apple_pie,takoyaki,panna_cotta
