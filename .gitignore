@@ -9,9 +9,7 @@ venv/
 __pycache__/
 
 # Ignore data folder
-data/
 test/
-model/
 score/
 
 # Ignore testing files
